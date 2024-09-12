@@ -1,0 +1,25 @@
+# Custom Dictionary Words
+arange
+bigrams
+chartoi
+cmap
+figsize
+freqs
+Hypen
+iloc
+imshow
+itochar
+keepdim
+multinomial
+multinoulli
+ndarray
+ndarrays
+openml
+probs
+torch.utils.data
+torchvision
+transformers
+Unigram
+vmax
+vmin
+xlnet
